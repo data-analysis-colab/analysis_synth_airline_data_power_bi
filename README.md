@@ -129,4 +129,4 @@ While not based on real-world data, the design faithfully mirrors analytical wor
 complex industries – illustrating best practices in BI modeling, DAX, visualization, and insight generation.
 
 ## Authors
-Jan H. Schüttler (Linkedin), Behzad Nematipour (Linkedin)
+Jan H. Schüttler (Linkedin), Behzad Nematipour ([linkedin](https://linkedin.com/in/behzad-nematipour-99b8b4399))
