@@ -1,4 +1,4 @@
-# Synthetical-Airline Data Report 2023 (Power BI Dashboard)
+# Synthetical-Airline Data Report (Power BI Dashboards)
 
 ## Introduction
 
